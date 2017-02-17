@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": "git+ssh://git@github.com:org/private",
   "name": "require",
   "version": "1.0.0",
   "main": "index.js",
