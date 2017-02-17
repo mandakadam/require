@@ -1,9 +1,9 @@
 require.config({
 	paths: {
-		jquery: '../nodeModules/jquery/dist/jquery.min',
-		bootstrap: '../nodeModules/bootstrap/dist/js/bootstrap.min',
-		underscore: '../nodeModules/underscore/underscore-min',
-		backbone: '../nodeModules/backbone/backbone-min'
+		jquery: '../lib/jquery/dist/jquery.min',
+		bootstrap: '../lib/bootstrap/dist/js/bootstrap.min',
+		underscore: '../lib/underscore/underscore-min',
+		backbone: '../lib/backbone/backbone-min'
 	},
 	shim: {
 		bootstrap:{
